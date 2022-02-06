@@ -1,14 +1,49 @@
+{
+  "course" : "Primaria",
+  "group" : "1ºB",
+  "date" : "marzo 2019",
+  "hours" : [
+    {
+      "start" : "7:25",
+      "classes" : [
+        {
+          "name" : "Actividades Permanentes",
+          "day" : "Lunes"
+        }, 
+        {
+          "name" : "Actividades Permanentes",
+          "day" : "Martes"
+        }, 
+        {
+          "name" : "Actividades Permanentes",
+          "day" : "Miércoles"
+        }, 
+        {
+          "name" : "Actividades Permanentes",
+          "day" : "Jueves"
+        }, 
+        {
+          "name" : "Actividades Permanentes",
+          "day" : "Viernes"
+        }
+      ]
+    }
+  ],
+  "end" : "12:00"
+}
+
+
 <?xml version="1.0" encoding="UTF-8"?>
 <timetable>
 <course>Primaria</course>
 <group>1ºB</group>
   <date>marzo 2019</date>
    <hour start="7:25">
-    <class day="Lunes">Actividades Permanentes</class>
-    <class day="Martes">Actividades Permanentes</class>
-    <class day="Miércoles">Actividades Permanentes</class>
-    <class day="Jueves">Actividades Permanentes</class>
-    <class day="Viernes">Actividades Permanentes</class>
+    <class day="Lunes"></class>
+    <class day="Martes"></class>
+    <class day="Miércoles"></class>
+    <class day="Jueves"></class>
+    <class day="Viernes"></class>
    </hour>
    <hour start="7:35">
     <class day="Lunes">Comunicación</class>

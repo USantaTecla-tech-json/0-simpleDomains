@@ -1,4 +1,40 @@
-
+{
+  "course" : "Primaria",
+  "group" : "1ºB",
+  "date" : "marzo 2019",
+  "classes" : [
+    {
+      "name" : "Actividades Permanentes",
+      "classes" : [
+        {
+          "start" : "7:25",
+          "name" : "Lunes"
+        },
+        {
+          "start" : "7:25",
+          "name" : "Lunes"
+        },
+        {
+          "start" : "7:25",
+          "name" : "Lunes"
+        },
+        {
+          "start" : "7:25",
+          "name" : "Lunes"
+        },
+        {
+          "start" : "7:25",
+          "name" : "Lunes"
+        },
+        {
+          "start" : "7:25",
+          "name" : "Lunes"
+        }
+      ]
+    }
+  ],
+  "end" : "12:00"
+}
 
 
 
