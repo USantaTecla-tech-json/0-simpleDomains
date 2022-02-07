@@ -11,101 +11,206 @@
           "name" : "Actividades Permanentes"
         },
         {
-          "start" : "7:25",
-          "name" : "Actividades Permanentes"
+          "start" : "7:35",
+          "name" : "Comunicación"
         },
         {
-          "start" : "7:25",
-          "name" : "Actividades Permanentes"
+          "start" : "8:10",
+          "name" : "Comunicación"
         },
         {
-          "start" : "7:25",
-          "name" : "Actividades Permanentes"
+          "start" : "8:45",
+          "name" : "Razonamiento Verbal"
         },
         {
-          "start" : "7:25",
-          "name" : "Actividades Permanentes"
+          "start" : "9:20",
+          "name" : "Matemática"
         },
         {
-          "start" : "7:25",
-          "name" : "Actividades Permanentes"
+          "start" : "9:55",
+          "name" : "Recreo"
         },
         {
-          "start" : "7:25",
-          "name" : "Actividades Permanentes"
+          "start" : "10:30",
+          "name" : "Matemática"
         },
         {
-          "start" : "7:25",
-          "name" : "Actividades Permanentes"
+          "start" : "10:50",
+          "name" : "Personal Social"
         },
         {
-          "start" : "7:25",
-          "name" : "Actividades Permanentes"
+          "start" : "11:25",
+          "name" : "Tutoría"
         }
       ]
-    }
+    },    
+    {
+      "name" : "Martes",
+      "classes" : [
+        {
+          "start" : "7:25",
+          "name" : "Actividades Permanentes"
+        },
+        {
+          "start" : "7:35",
+          "name" : "Matemática"
+        },
+        {
+          "start" : "8:10",
+          "name" : "Matemática"
+        },
+        {
+          "start" : "8:45",
+          "name" : "Educación Fisica"
+        },
+        {
+          "start" : "9:20",
+          "name" : "Educación Fisica"
+        },
+        {
+          "start" : "9:55",
+          "name" : "Recreo"
+        },
+        {
+          "start" : "10:30",
+          "name" : "Inglés"
+        },
+        {
+          "start" : "10:50",
+          "name" : "Inglés"
+        },
+        {
+          "start" : "11:25",
+          "name" : "Personal Social"
+        }
+      ]
+    },    
+    {
+      "name" : "Miercoles",
+      "classes" : [
+        {
+          "start" : "7:25",
+          "name" : "Actividades Permanentes"
+        },
+        {
+          "start" : "7:35",
+          "name" : "Arte Y Cultura"
+        },
+        {
+          "start" : "8:10",
+          "name" : "Comunicación"
+        },
+        {
+          "start" : "8:45",
+          "name" : "Matemática"
+        },
+        {
+          "start" : "9:20",
+          "name" : "Matemática"
+        },
+        {
+          "start" : "9:55",
+          "name" : "Recreo"
+        },
+        {
+          "start" : "10:30",
+          "name" : "Educación por el Trabajo"
+        },
+        {
+          "start" : "10:50",
+          "name" : "Ciencia Y Tecnologia"
+        },
+        {
+          "start" : "11:25",
+          "name" : "Ciencia Y Tecnologia"
+        }
+      ]
+    },    
+    {
+      "name" : "Jueves",
+      "classes" : [
+        {
+          "start" : "7:25",
+          "name" : "Actividades Permanentes"
+        },
+        {
+          "start" : "7:35",
+          "name" : "Matemática"
+        },
+        {
+          "start" : "8:10",
+          "name" : "Matemática"
+        },
+        {
+          "start" : "8:45",
+          "name" : "Comunicación"
+        },
+        {
+          "start" : "9:20",
+          "name" : "Comunicación"
+        },
+        {
+          "start" : "9:55",
+          "name" : "Recreo"
+        },
+        {
+          "start" : "10:30",
+          "name" : "Ciencia Y Tecnologia"
+        },
+        {
+          "start" : "10:50",
+          "name" : "Plan Lector"
+        },
+        {
+          "start" : "11:25",
+          "name" : "Arte Y Cultura"
+        }
+      ]
+    },
+    {
+      "name" : "Viernes",
+      "classes" : [
+        {
+          "start" : "7:25",
+          "name" : "Actividades Permanentes"
+        },
+        {
+          "start" : "7:35",
+          "name" : "Comunicación"
+        },
+        {
+          "start" : "8:10",
+          "name" : "Comunicación"
+        },
+        {
+          "start" : "8:45",
+          "name" : "Razonamiento Matemático"
+        },
+        {
+          "start" : "9:20",
+          "name" : "Razonamiento Matemático"
+        },
+        {
+          "start" : "9:55",
+          "name" : "Recreo"
+        },
+        {
+          "start" : "10:30",
+          "name" : "Razonamiento Verbal"
+        },
+        {
+          "start" : "10:50",
+          "name" : "Educación por el Trabajo"
+        },
+        {
+          "start" : "11:25",
+          "name" : "Religión"
+        }
+      ]
+    }   
   ],
   "end" : "12:00"
 }
 
-<?xml version="1.0" encoding="UTF-8"?>
-<timetable>
-<course>Primaria</course>
-<group>1ºB</group>
-  <date>marzo 2019</date>
-    <day name="Lunes" end="12:00">
-      <class start="7:25">Actividades Permanentes</class>
-      <class start="7:35">Comunicación</class>
-      <class start="8:10">Comunicación</class>
-      <class start="8:45">Razonamiento Verbal</class>
-      <class start="9:20">Matemática</class>
-      <class start="9:55">Recreo</class>
-      <class start="10:30">Matemática</class>
-      <class start="10:50">Personal Social</class>
-      <class start="11:25">Tutoría</class>
-   </day>
-   <day name="Martes" end="12:00">
-     <class start="7:25">Actividades Permanentes</class>
-     <class start="7:35">Matemática</class>
-     <class start="8:10">Matemática</class>
-     <class start="8:45">Educación Fisica</class>
-     <class start="9:20">Educación Fisica</class>
-     <class start="9:55">Recreo</class>
-     <class start="10:30">Inglés</class>
-     <class start="10:50">Inglés</class>
-     <class start="11:25">Personal Social</class>
-   </day>
-   <day name="Miercoles" end="12:00">
-    <class start="7:25">Actividades Permanentes</class>
-    <class start="7:35">Arte Y Cultura</class>
-    <class start="8:10">Comunicación</class>
-    <class start="8:45">Matemática</class>
-    <class start="9:20">Matemática</class>
-    <class start="9:55">Recreo</class>
-    <class start="10:30">Educación por el Trabajo</class>
-    <class start="10:50">Ciencia Y Tecnologia</class>
-    <class start="11:25">Ciencia Y Tecnologia</class>
-   </day>
-   <day name="Jueves" end="12:00">
-    <class start="7:25">Actividades Permanentes</class>
-    <class start="7:35">Matemática</class>
-    <class start="8:10">Matemática</class>
-    <class start="8:45">Comunicación</class>
-    <class start="9:20">Comunicación</class>
-    <class start="9:55">Recreo</class>
-    <class start="10:30">Ciencia Y Tecnologia</class>
-    <class start="10:50">Plan Lector</class>
-    <class start="11:25">Arte Y Cultura</class>
-   </day>
-   <day name="Viernes" end="12:00">
-    <class start="7:25">Actividades Permanentes</class>
-    <class start="7:35">Comunicación</class>
-    <class start="8:10">Comunicación</class>
-    <class start="8:45">Razonamiento Matemático</class>
-    <class start="9:20">Razonamiento Matemático</class>
-    <class start="9:55">Recreo</class>
-    <class start="10:30">Razonamiento Verbal</class>
-    <class start="10:50">Educación por el Trabajo</class>
-    <class start="11:25">Religión</class>
-   </day>
-</timetable>
+
+

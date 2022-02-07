@@ -1,3 +1,166 @@
+{ 
+  "title": "Horario escola",
+  "course" : 1,
+  "level" : "Primaria",
+  "group" : "1ºB",
+  "month" : "marzo",
+  "year" : "2019",
+  "times" : [
+    {
+     "time id" : "K1",
+     "time Format" : "A.M.",
+     "beginning" : "7:25",
+     "finish" : "7:35"
+    },
+    {
+     "time id" : "K2",
+     "time Format" : "A.M.",
+     "beginning" : "7:35",
+     "finish" : "8:10"
+    },
+    {
+     "time id" : "K3",
+     "time Format" : "A.M.",
+     "beginning" : "8:10",
+     "finish" : "8:45"
+    },
+    {
+     "time id" : "K4",
+     "time Format" : "A.M.",
+     "beginning" : "8:45",
+     "finish" : "9:20"
+    },
+    {
+     "time id" : "K5",
+     "time Format" : "A.M.",
+     "beginning" : "9:20",
+     "finish" : "9:55"
+    },
+    {
+     "time id" : "K6",
+     "time Format" : "A.M.",
+     "beginning" : "9:55",
+     "finish" : "10:30"
+    },
+    {
+     "time id" : "K7",
+     "time Format" : "A.M.",
+     "beginning" : "10:30",
+     "finish" : "10:50"
+    },
+    {
+     "time id" : "K8",
+     "time Format" : "A.M.",
+     "beginning" : "10:50",
+     "finish" : "11:25"
+    },
+    {
+     "time id" : "K9",
+     "time Format" : "A.M.",
+     "beginning" : "11:25",
+     "finish" : "12:00"
+    }
+  ]
+  },  
+  {
+  "weekdays" : [
+    {
+    "week day" : "Lunes",
+    "activity id" : "K1",
+    "name" : "Actividades Permanentes",
+    "activity" : "Comunicación" [
+      "reference" : [
+        {
+        "from idref" : "k2",
+        "to idref" : "k3"
+        }
+      ]
+    ]
+    },
+    {
+      "activity" : [
+        {
+        "id" : "K4",
+        "name" : "Razonamiento verbal"
+        },
+        {
+          "id" : "K5",
+          "name" : "Matemática"
+        },
+        {
+          "id" : "K7",
+          "name" : "Recreo"
+        },
+        {
+          "id" : "K6",
+          "name" : "Matemática"
+        },
+        {
+          "id" : "K8",
+          "name" : "personal social"
+        }
+        {
+          "id" : "K9",
+          "name" : "Tutoria"
+        }
+      ]
+    }
+  ]
+  "weekdays" : [
+    {
+    "week day" : "Martes",
+    "activity id" : "K1",
+    "name" : "Actividades Permanentes",
+    "activity" : "Matemática" [
+      "reference" : [
+        {
+        "from idref" : "k2",
+        "to idref" : "k3"
+        }
+      ]
+    ]
+    },
+    {
+      "activity" : [
+        {
+        "name" : "Educación fisica"
+        },
+        { 
+       "reference" : [
+          {
+          "from idref" : "k4",
+          "to idref" : "k5"
+          }
+        {
+          "activity id" : "K6",
+          "name" : "Recreo"
+        },
+        {
+          "id" : "K7",
+          "name" : "Recreo"
+        },
+        {
+          "id" : "K6",
+          "name" : "Matemática"
+        },
+        {
+          "id" : "K8",
+          "name" : "personal social"
+        }
+        {
+          "id" : "K9",
+          "name" : "Tutoria"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+
+
 <?xml version="1.0" encoding="UTF-8"?>
 <table>
 <title course="1" level="Primaria" month="marzo" year="2019">Horario escolar</title>   
