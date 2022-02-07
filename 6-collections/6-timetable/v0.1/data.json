@@ -5,359 +5,219 @@
   "classes" : [
     {
       "name" : "Actividades Permanentes",
-      "classes" : [
+      "hours" : [
         {
           "start" : "7:25",
-          "name" : "Lunes"
+          "day" : "Lunes"
         },
         {
           "start" : "7:25",
-          "name" : "Lunes"
+          "day" : "Lunes"
         },
         {
           "start" : "7:25",
-          "name" : "Lunes"
+          "day" : "Lunes"
         },
         {
           "start" : "7:25",
-          "name" : "Lunes"
+          "day" : "Lunes"
         },
         {
           "start" : "7:25",
-          "name" : "Lunes"
+          "day" : "Lunes"
         },
         {
           "start" : "7:25",
-          "name" : "Lunes"
+          "day" : "Lunes"
+        }
+      ]
+    },
+    {
+      "name" : "Comunicación",
+      "hours" : [
+        {
+          "start" : "7:35",
+          "day" : "Lunes"
+        },
+        {
+          "start" : "8:10",
+          "day" : "Miércoles"
+        },
+        {
+          "start" : "7:25",
+          "day" : "Jueves"
+        },
+        {
+          "start" : "7:35",
+          "day" : "Viernes"
+        }
+      ]
+    },
+    {
+      "name" : "Matemática",
+      "hours" : [
+        {
+          "start" : "9:20",
+          "day" : "Lunes"
+        },
+        {
+          "start" : "7:35",
+          "day" : "Martes"
+        },
+        {
+          "start" : "8:45",
+          "day" : "Mieroles"
+        },
+        {
+          "start" : "7:35",
+          "day" : "Jueves"
+        }
+      ]
+    },
+    {
+      "name" : "Arte Y Cultura",
+      "hours" : [
+        {
+          "start" : "7:35",
+          "day" : "Mircoles"
+        },
+        {
+          "start" : "11:25",
+          "day" : "Jueves"
+        }
+      ]
+    },
+    {
+      "name" : "Razonamiento Verbal",
+      "hours" : [
+        {
+          "start" : "8:45",
+          "day" : "Lunes"
+        },
+        {
+          "start" : "10:30",
+          "day" : "Viernes"
+        }
+      ]
+    },
+    {
+      "name" : "Educación Fisica",
+      "houres" : [
+        {
+          "start" : "8:45",
+          "day" : "Martes"
+        }
+      ]
+    },
+    {
+      "name" : "Razonamiento Matemático",
+      "hours" : [
+        {
+          "start" : "8:45",
+          "day" : "Viernes"
+        }
+      ]
+    },
+    {
+      "name" : "Recreo",
+      "hours" : [
+        {
+          "start" : "9:55",
+          "day" : "Lunes"
+        },
+        {
+          "start" : "9:55",
+          "day" : "Martes"
+        },
+        {
+          "start" : "9:55",
+          "day" : "Miercoles"
+        },
+        {
+          "start" : "9:55",
+          "day" : "Jueves"
+        },
+        {
+          "start" : "9:55",
+          "day" : "Viernes"
+        }
+      ]
+    },
+    {
+      "name" : "Inglés",
+      "hours" : [
+        {
+          "start" : "10:30",
+          "day" : "Martes"
+        }
+      ]
+    },
+    {
+      "name" : "Educación por el Trabajo",
+      "hours" : [
+        {
+          "start" : "10:30",
+          "day" : "Miercoles"
+        },
+        {
+          "start" : "10:50",
+          "day" : "Viernes"
+        }
+      ]
+    },
+    {
+      "name" : "Ciencia Y Tecnología",
+      "hours" : [
+        {
+          "start" : "10:50",
+          "day" : "Miercoles"
+        },
+        {
+          "start" : "10:30",
+          "day" : "Jueves"
+        }
+      ]
+    },
+    {
+      "name" : "Personal Social",
+      "hours" : [
+        {
+          "start" : "10:50",
+          "day" : "Lunes"
+        },
+        {
+          "start" : "11:25",
+          "day" : "Martes"
+        }
+      ]
+    },
+    {
+      "name" : "Plan Lector",
+      "hours" : [
+        {
+          "start" : "10:50",
+          "day" : "Jueves"
+        }
+      ]
+    },
+    {
+      "name" : "Tutoría",
+      "hours" : [
+        {
+          "start" : "11:15",
+          "day" : "Lunes"
+        }
+      ]
+    },
+    {
+      "name" : "Religión",
+      "hours" : [
+        {
+          "start" : "11:25",
+          "day" : "Viernes"
         }
       ]
     }
   ],
   "end" : "12:00"
 }
-{
-  "classes" : [
-    {
-      "name" : "Comunicación",
-      "classes" : [
-        {
-          "start" : "7:35",
-          "name" : "Lunes"
-        },
-        {
-          "start" : "8:10",
-          "name" : "Miércoles"
-        },
-        {
-          "start" : "7:25",
-          "name" : "Jueves"
-        },
-        {
-          "start" : "7:35",
-          "name" : "Viernes"
-        },
-      ]
-    }
-  ],
-  "end" : "12:00"
-}
-{
-  "classes" : [
-    {
-      "name" : "Matemática",
-      "classes" : [
-        {
-          "start" : "9:20",
-          "name" : "Lunes"
-        },
-        {
-          "start" : "7:35",
-          "name" : "Martes"
-        },
-        {
-          "start" : "8:45",
-          "name" : "Mieroles"
-        },
-        {
-          "start" : "7:35",
-          "name" : "Jueves"
-        },
-      ]
-    }
-  ],
-  "end" : "12:00"
-}
-{
-  "classes" : [
-    {
-      "name" : "Arte Y Cultura",
-      "classes" : [
-        {
-          "start" : "7:35",
-          "name" : "Mircoles"
-        },
-        {
-          "start" : "11:25",
-          "name" : "Jueves"
-        },
-      ]
-    }
-  ],
-  "end" : "12:00"
-}
-{
-  "classes" : [
-    {
-      "name" : "Razonamiento Verbal",
-      "classes" : [
-        {
-          "start" : "8:45",
-          "name" : "Lunes"
-        },
-        {
-          "start" : "10:30",
-          "name" : "Viernes"
-        },
-      ]
-    }
-  ],
-  "end" : "12:00"
-}
-{
-  "classes" : [
-    {
-      "name" : "Educación Fisica",
-      "classes" : [
-        {
-          "start" : "8:45",
-          "name" : "Martes"
-        },
-      ]
-    }
-  ],
-  "end" : "12:00"
-}
-{
-  "classes" : [
-    {
-      "name" : "Razonamiento Matemático",
-      "classes" : [
-        {
-          "start" : "8:45",
-          "name" : "Viernes"
-        },
-      ]
-    }
-  ],
-  "end" : "12:00"
-}
-{
-  "classes" : [
-    {
-      "name" : "Recreo",
-      "classes" : [
-        {
-          "start" : "9:55",
-          "name" : "Lunes"
-        },
-        {
-          "start" : "9:55",
-          "name" : "Martes"
-        },
-        {
-          "start" : "9:55",
-          "name" : "Miercoles"
-        },
-        {
-          "start" : "9:55",
-          "name" : "Jueves"
-        },
-        {
-          "start" : "9:55",
-          "name" : "Viernes"
-        },
-      ]
-    }
-  ],
-  "end" : "12:00"
-}
-{
-  "classes" : [
-    {
-      "name" : "Inglés",
-      "classes" : [
-        {
-          "start" : "10:30",
-          "name" : "Martes"
-        },
-      ]
-    }
-  ],
-  "end" : "12:00"
-}
-{
-  "classes" : [
-    {
-      "name" : "Educación por el Trabajo",
-      "classes" : [
-        {
-          "start" : "10:30",
-          "name" : "Miercoles"
-        },
-        {
-          "start" : "10:50",
-          "name" : "Viernes"
-        },
-      ]
-    }
-  ],
-  "end" : "12:00"
-}
-{
-  "classes" : [
-    {
-      "name" : "Ciencia Y Tecnología",
-      "classes" : [
-        {
-          "start" : "10:50",
-          "name" : "Miercoles"
-        },
-        {
-          "start" : "10:30",
-          "name" : "Jueves"
-        },
-      ]
-    }
-  ],
-  "end" : "12:00"
-}
-{
-  "classes" : [
-    {
-      "name" : "Personal Social",
-      "classes" : [
-        {
-          "start" : "10:50",
-          "name" : "Lunes"
-        },
-        {
-          "start" : "11:25",
-          "name" : "Martes"
-        },
-      ]
-    }
-  ],
-  "end" : "12:00"
-}
-{
-  "classes" : [
-    {
-      "name" : "Plan Lector",
-      "classes" : [
-        {
-          "start" : "10:50",
-          "name" : "Jueves"
-        },
-      ]
-    }
-  ],
-  "end" : "12:00"
-}
-{
-  "classes" : [
-    {
-      "name" : "Tutoría",
-      "classes" : [
-        {
-          "start" : "11:15",
-          "name" : "Lunes"
-        },
-      ]
-    }
-  ],
-  "end" : "12:00"
-}
-{
-  "classes" : [
-    {
-      "name" : "Religión",
-      "classes" : [
-        {
-          "start" : "11:25",
-          "name" : "Viernes"
-        },
-      ]
-    }
-  ],
-  "end" : "12:00"
-}
-<?xml version="1.0" encoding="UTF-8"?>
-<timetable end="12:00">
- <course>Primaria</course>
-  <group>B</group>
-   <date>marzo 2019</date>
-    <class name="Actividades Permanentes">
-      <date day="Lunes" start="7:25"/>
-      <date day="Martes" start="7:25"/>
-      <date day="Miércoles" start="7:25"/>
-      <date day="Jueves" start="7:25"/>
-      <date day="Viernes" start="7:25"/>
-    </class>
-    <class name="Comunicación">
-      <date day="Lunes" start="7:35"/>
-      <date day="Miércoles" start="8:10"/>
-      <date day="Jueves" start="7:25"/>
-      <date day="Viernes" start="7:35"/>
-    </class>
-     <class name="Matemática">
-       <date day="Lunes" start="9:20"/>
-       <date day="Martes" start="7:35"/>
-       <date day="Miércoles" start="8:45"/>
-       <date day="Jueves" start="7:35"/>
-    </class>
-    <class name="Arte Y Cultura">
-      <date day="Miércoles" start="7:35"/>
-      <date day="Jueves" start="11:25"/>
-    </class>
-    <class name="Razonamiento Verbal">
-      <date day="Lunes" start="8:45"/>
-      <date day="Viernes" start="10:30"/>
-    </class>
-    <class name="Educación Fisica">
-      <date day="Martes" start="8:45"/>
-    </class>
-    <class name="Razonamiento Matemático">
-      <date day="Viernes" start="8:45"/>
-    </class>
-    <class name="Recreo">
-      <date day="Lunes" start="9:55"/>
-      <date day="Martes" start="9:55"/>
-      <date day="Miércoles" start="9:55"/>
-      <date day="Jueves" start="9:55"/>
-      <date day="Viernes" start="9:55"/>
-    </class>
-    <class name="Inglés">
-      <date day="Martes" start="10:30"/>
-    </class>
-    <class name="Educación por el Trabajo">
-      <date day="Miércoles" start="10:30"/>
-      <date day="Viernes" start="10:50"/>
-    </class>
-    <class name="Ciencia Y Tecnología">
-      <date day="Miércoles" start="10:50"/>
-      <date day="Jueves" start="10:30"/>
-    </class>
-    <class name="Personal Social">
-      <date day="Lunes" start="10:50"/>
-      <date day="Martes" start="11:25"/>
-    </class>
-    <class name="Plan Lector">
-      <date day="Jueves" start="10:50"/>
-    </class>
-    <class name="Tutoría">
-      <date day="Lunes" start="11:25"/>
-    </class>
-    <class name="Religión">
-      <date day="Viernes" start="11:25"/>
-    </class>
-</timetable>
